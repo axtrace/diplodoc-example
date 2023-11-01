@@ -1,3 +1,6 @@
+# ok
+it's my first try of diplodoc
+
 # Basic "About page" 
 
 This is an example for basic documenation project.
